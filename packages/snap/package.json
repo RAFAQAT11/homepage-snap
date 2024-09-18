@@ -1,12 +1,17 @@
 {
-  "name": "3ns",
+  "name": "@rafaqat11/homepage-snap",
   "version": "1.0.0",
   "description": "This App redirect user to the official website to purchase a .Web3 domain",
+  "homepage": "https://github.com/rafaqat11/homepage-snap#readme",
+  "bugs": {
+    "url": "https://github.com/rafaqat11/homepage-snap/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/RAFAQAT11/homepage-snap.git"
   },
   "license": "MIT",
+  "author": "Rafaqat Ali",
   "main": "./dist/bundle.js",
   "files": [
     "dist/",

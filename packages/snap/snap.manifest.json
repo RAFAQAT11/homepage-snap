@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "description": "This App redirect user to the official website to purchase a .Web3 domain",
-  "proposedName": "3ns",
+  "proposedName": "homepage",
   "repository": {
     "type": "git",
     "url": "https://github.com/RAFAQAT11/homepage-snap.git"
@@ -11,7 +11,7 @@
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
-        "packageName": "3ns",
+        "packageName": "@rafaqat11/homepage-snap",
         "iconPath": "images/3ns.svg",
         "registry": "https://registry.npmjs.org/"
       }
