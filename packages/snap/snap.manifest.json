@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "description": "This App redirect user to the official website to purchase a .Web3 domain",
+  "proposedName": "3ns",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+  },
+  "source": {
+    "shasum": "4sMfMfn5kl7dxbOK15wnd+QpdmjZpm5WBmv4gKp//do=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "packageName": "3ns",
+        "iconPath": "images/3ns.svg",
+        "registry": "https://registry.npmjs.org/"
+      }
+    }
+  },
+  "initialPermissions": {
+    "endowment:page-home": {}
+  },
+  "manifestVersion": "0.1"
+}
