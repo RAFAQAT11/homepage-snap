@@ -4,7 +4,7 @@
   "description": "This App redirect user to the official website to purchase a .Web3 domain",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MetaMask/template-snap-monorepo.git"
+    "url": "https://github.com/RAFAQAT11/homepage-snap.git"
   },
   "license": "MIT",
   "main": "./dist/bundle.js",
